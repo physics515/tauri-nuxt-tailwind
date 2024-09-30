@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    balens_lib::run()
+    tauri_nuxt_tailwind_lib::run()
 }
